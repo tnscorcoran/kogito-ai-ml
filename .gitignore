@@ -1,6 +1,5 @@
 .DS_Store
-/springboot-hello-world/target/
-/quarkus-hello-world/target/
+/target/
 .classpath
 .project
 .settings/
